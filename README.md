@@ -48,3 +48,7 @@ ng serve
 ```
 
 ---
+
+Built with care and lots of ☕ — Happy Coding!
+
+--
